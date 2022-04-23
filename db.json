@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "name": "Kinder green",
+            "age": 27,
+            "favouriteColor": "Blue"
+        },
+        {
+            "name": "Bliss Man",
+            "age": 17,
+            "favouriteColor": "Turquoise"
+        },
+        {
+            "name": "Raging Rav",
+            "age": 35,
+            "favouriteColor": "Yellow"
+        },
+        {
+            "name": "Thor",
+            "age": 127,
+            "favouriteColor": "Thunder Blue"
+        }
+    ]
+}
