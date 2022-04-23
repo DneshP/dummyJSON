@@ -3,22 +3,22 @@
         {
             "name": "Kinder green",
             "age": 27,
-            "favouriteColor": "Blue"
+            "favouriteColour": "Blue"
         },
         {
             "name": "Bliss Man",
             "age": 17,
-            "favouriteColor": "Turquoise"
+            "favouriteColour": "Turquoise"
         },
         {
             "name": "Raging Rav",
             "age": 35,
-            "favouriteColor": "Yellow"
+            "favouriteColour": "Yellow"
         },
         {
             "name": "Thor",
             "age": 127,
-            "favouriteColor": "Thunder Blue"
+            "favouriteColour": "Thunder Blue"
         }
     ]
 }
